@@ -1,0 +1,44 @@
+.navbar li a
+{
+    font-size: 1rem;
+}
+
+.booking-discription {
+    width: 318px;
+    height: 490px;
+}
+
+.booking-discription h1 
+{    
+    font-size: 2rem;    
+}
+
+.booking-form 
+{
+    width: 318px;
+}
+
+.booking-form-table input 
+{
+    width: 315px;
+}
+
+.chef-heading h1 
+{
+    font-size: 2rem;
+}
+
+.special-item 
+{    
+    width: 318px;   
+}
+
+#chef-img-section 
+{   
+    width: 90%;    
+}
+
+footer
+{
+    flex-direction: column;
+}

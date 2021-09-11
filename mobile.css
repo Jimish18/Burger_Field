@@ -1,0 +1,45 @@
+header
+{
+    flex-direction: column;
+}
+
+.logo
+{
+    position: relative;
+    margin: auto;
+}
+
+.middelbody
+{
+    align-self: center;
+    left: auto;
+}
+
+.right
+{
+    display: none;
+}
+
+#discription
+{
+    display: none;
+}
+
+#chef-img-section
+{
+    grid-template-columns: 1fr;
+}
+.final-part
+{
+    height: 710px;
+    justify-content: start;
+}
+#final-part-address
+{
+    flex-direction: column;
+}
+
+#cafe-timing,#address-details
+{
+    height: 300px;
+}

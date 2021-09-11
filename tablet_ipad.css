@@ -1,0 +1,54 @@
+.online-order
+{
+    display: none;
+}
+
+.special-items
+{
+    height: fit-content;    
+    flex-direction: column;
+    width: fit-content;
+}
+.midbody
+{
+    height: fit-content;
+}
+
+.special-reservation
+{
+    height: fit-content;
+    flex-direction: column;    
+}
+
+.booking-discription h3 
+{   
+    margin-left: 33px;
+}
+
+.booking-discription h1
+{    
+    margin-left: 28px;
+}
+
+.booking-discription p
+{    
+    padding-left: 33px;    
+    word-spacing: 8px;
+}
+
+.chef-section
+{
+    height: fit-content;
+}
+
+#chef-img-section
+{
+    grid-template-columns: 1fr 1fr;
+}
+
+.chef-profile
+{
+    margin: 30px;
+}
+
+

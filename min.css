@@ -1,0 +1,70 @@
+.navbar li a
+{
+    font-size: 1.25rem;
+}
+
+.heading-special h1
+{
+    font-size: 2.5rem;
+}
+
+.special-item
+{
+    height: 400px;
+}
+
+.special-item img
+{
+    height: 300px; ;
+    width: 300px;
+}
+
+.menu-items
+{
+    width: 250px;
+}
+
+#menu-item-5,#menu-item-6,#menu-item-7,#menu-item-8
+{
+    display: none;
+}
+
+.booking-discription 
+{
+    width: 400px;
+    height: 450px;
+}
+
+.booking-form-table input 
+{    
+    width: 375px;    
+}
+
+.booking-form
+{
+    width: 400px;
+}
+
+.chef-heading h1
+{
+    font-size: 2.5rem;
+}
+
+.chef-heading h2
+{
+    font-size: 1.5rem;
+}
+
+#address-details, #cafe-timing {
+    /* width: 350px;
+    height: 350px; */
+    /* border: 2px solid white; */
+    /* margin-left: 50px; */
+    margin: auto;
+}
+
+/* .final-part 
+{
+    height: 710px;
+    justify-content: start;
+} */
