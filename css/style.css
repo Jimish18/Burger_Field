@@ -28,7 +28,7 @@ body {
 .upperbody::before
 {
     content: "";
-    background-image:url(bg2.jpg) ;
+    background-image:url(/images/bg2.jpg) ;
     position: absolute;
     height: 850px;
     width: 100%;
