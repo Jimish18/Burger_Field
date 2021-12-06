@@ -16,18 +16,18 @@ body {
     width: 100%;
     padding: 0px;    
     opacity: 1;
-    /* position: relative;
-    background-image: url(front-view-tasty-meat-burger-with-cheese-salad-dark-background.jpg);
+    position: relative;
+    background-image: url(/bg2.jpg);
     background-repeat: no-repeat;
-    background-size: 1545px 740px;
-    background-position:bottom;
-    background-size: cover; */
+    /* background-size: 1545px 740px; */
+    background-position:center;
+    background-size: cover;
 
 }
 
 .upperbody::before
 {
-    content: "";
+    /* content: "";
     background-image:url(/ilya-mashkov-mkVa2hLJgnI-unsplash\ \(1\).jpg) ;
     position: absolute;
     height: 850px;
@@ -35,7 +35,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    opacity: 0.9;
+    opacity: 0.9; */
 }
 
 header {
